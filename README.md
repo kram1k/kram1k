@@ -7,5 +7,3 @@
 - 📫 How to reach me:
 	mail: Kramik144@yandex.ru
 	tg: https://t.me/CAR1N0
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kram1k&theme=dark" alt="GitHub Streak" /></a>
